@@ -1,7 +1,7 @@
 {
     "name": "rnv619/barcode",
     "description": "Barcode Generator",
-    "type": "composer-plugin",
+    "type": "library",
     "authors": [
         {
             "name": "Rahul Ranva",
